@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">الصفحه الرئسيه</string>
+    <string name="my_order">طلباتي السابقه</string>
+    <string name="language">English</string>
+    <string name="about_us">حول التطبيق</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="_0096898519000"><![CDATA[<u> 0096898519000</u>]]></string>
+    <string name="email"><![CDATA[<u> sweetyapp00@gmail.com </u>]]></string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="chat_with_us"><![CDATA[<u> تحدث معنا </u>]]></string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "691880969850",
+    "firebase_url": "https://sweetyapp-3e0fb.firebaseio.com",
+    "project_id": "sweetyapp-3e0fb",
+    "storage_bucket": "sweetyapp-3e0fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691880969850:android:1b4b6acd6fc55eb4",
+        "android_client_info": {
+          "package_name": "firstapp.om.sweety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691880969850-6njvs5j50bk2d4v0bhjnd2ni2ff33oj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firstapp.om.sweety",
+            "certificate_hash": "38a9d70f52614806f4f213ec35ce24d5eb5d0999"
+          }
+        },
+        {
+          "client_id": "691880969850-ia6nddhd59orj5mjkkk44ngr1f5992sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl4nElFhHNuReeJKTzdBFfUZ8e55hw8uA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691880969850-ia6nddhd59orj5mjkkk44ngr1f5992sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
